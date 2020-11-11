@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/mac24h/Desktop/AppFoody/Foody2/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/Users/mac24h/.gradle/caches/transforms-1/files-1.1/rules-0.5.aar/7d5b1de263cf367dfbeb3da3c06947e4/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]

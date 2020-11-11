@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1055418108091-inv8k7vqjbe4t3rmenrcrqg908h6icg3.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://foodyapp-a439f.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1055418108091</string>
+    <string name="google_api_key" translatable="false">AIzaSyB2ep4HNhyByWtCdBTrTDNLhzUQds0DH4c</string>
+    <string name="google_app_id" translatable="false">1:1055418108091:android:d63c384e1b9c179f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB2ep4HNhyByWtCdBTrTDNLhzUQds0DH4c</string>
+    <string name="google_storage_bucket" translatable="false">foodyapp-a439f.appspot.com</string>
+</resources>

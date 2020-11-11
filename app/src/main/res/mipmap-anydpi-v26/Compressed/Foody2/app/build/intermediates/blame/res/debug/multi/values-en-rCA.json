@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/mac24h/Desktop/AppFoody/Foody2/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rCA/values-en-rCA.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 103,
+                    "endOffset": 154
+                },
+                "from": {
+                    "file": "/Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-wallet-10.2.1.aar/8fc13a6101b8262c92bc17a833c1bc37/res/values-en-rCA/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 244,
+                        "endColumn": 99,
+                        "endOffset": 343
+                    }
+                }
+            }
+        ]
+    }
+]

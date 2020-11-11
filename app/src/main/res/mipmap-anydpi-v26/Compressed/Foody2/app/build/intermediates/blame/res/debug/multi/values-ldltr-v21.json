@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/mac24h/Desktop/AppFoody/Foody2/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 112,
+                    "endOffset": 163
+                },
+                "from": {
+                    "file": "/Users/mac24h/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/f55dc84c4213adfbf8bbd83834430a3b/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 112,
+                        "endOffset": 163
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,812 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/mac24h/Desktop/AppFoody/Foody2/app/src/main/AndroidManifest.xml:2:1-85:12
+INJECTED from /Users/mac24h/Desktop/AppFoody/Foody2/app/src/main/AndroidManifest.xml:2:1-85:12
+INJECTED from /Users/mac24h/Desktop/AppFoody/Foody2/app/src/main/AndroidManifest.xml:2:1-85:12
+INJECTED from /Users/mac24h/Desktop/AppFoody/Foody2/app/src/main/AndroidManifest.xml:2:1-85:12
+MERGED from [com.facebook.android:facebook-android-sdk:4.25.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.25.0.aar/580a0dbd66dbc3ea610033fa7da2bd8a/AndroidManifest.xml:21:1-50:12
+MERGED from [com.android.support:design:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/design-25.3.0.aar/3172513bef2979f2ea4b33d00e921d51/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-10.2.1.aar/0e466c7e99874cb8bce82e755d3b2538/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-cast-framework:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-10.2.1.aar/7c741e90480dfa4573f3181061db56d3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-cast:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-cast-10.2.1.aar/7343abd214670cdad2d668a5ea391a74/AndroidManifest.xml:16:1-19:12
+MERGED from [com.android.support:mediarouter-v7:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-25.3.0.aar/0b1bd05d1f1be8a6eb5af5b3735a2b07/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:appcompat-v7:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/f55dc84c4213adfbf8bbd83834430a3b/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/04da0f1fb7a6ef036181c8c8e1ed4fcf/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-core:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-core-10.2.1.aar/1413bf32293333ef8287176b1204a7cf/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-auth:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-auth-10.2.1.aar/c637e7674a496bac271a4e8aa6f1852b/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-auth:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-auth-10.2.1.aar/300af5c791085bc5cadd730faed359d0/AndroidManifest.xml:16:1-26:12
+MERGED from [com.google.firebase:firebase-database:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-database-10.2.1.aar/3a400c980814c4b661a47a4a9e0f5c95/AndroidManifest.xml:2:1-4:12
+MERGED from [com.android.support:cardview-v7:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.0.aar/029d367cb28f04a431b6ad7bd56e15d3/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.0.aar/1d051a8e4b4b77d02d159aa381bd6a13/AndroidManifest.xml:17:1-26:12
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/circleimageview-2.1.0.aar/78ac7930dca75758b8a866a44c3ba65e/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-storage:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-storage-10.2.1.aar/79cf865794e35a2993161975374b838b/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/9ebf5c838b722cf983a036f641431fde/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:multidex:1.0.2] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/ac56522df34b2db3b19727372eaf3fef/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.0.aar/063be0e7a353f5d8c3916355c80309a1/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.0.aar/e2aa390a8b1fa4ff7dea0c1c9450af49/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:customtabs:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/customtabs-25.3.0.aar/4058f69bef895203881b154177096260/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.firebase:firebase-crash:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-crash-10.2.1.aar/feaabeed7ec300271eb740c9d125f1d9/AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-tagmanager:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-10.2.1.aar/1782bd7706c0464c705686c1cd7948e7/AndroidManifest.xml:16:1-18:12
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-10.2.1.aar/c45fc2c1e7c8430e0a9695a1f3d524ca/AndroidManifest.xml:16:1-34:12
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.1.aar/ff5e6948252fa237a97d760e2811a65d/AndroidManifest.xml:16:1-34:12
+MERGED from [com.google.android.gms:play-services-auth-base:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-10.2.1.aar/7b3c8cdeb12b53de742679fa42129b4d/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-ads:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-ads-10.2.1.aar/2285706a85ac056ea9120fab11a59f6f/AndroidManifest.xml:16:1-18:12
+MERGED from [com.google.android.gms:play-services-analytics:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-analytics-10.2.1.aar/0f6bd65696342656437a7169a8550732/AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-10.2.1.aar/ff0c42091e4de44b81aa25786318d19c/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-10.2.1.aar/1d0f9ddf23043e04d26edebf0f61e932/AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-10.2.1.aar/128e1a60fb2f4da5dee0d4e32951b978/AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-10.2.1.aar/ba59c70abbb554251ad2d293ee4b9dd4/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.firebase:firebase-config:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-config-10.2.1.aar/2d6ad50a72b76d37f62796edd513ac4d/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-awareness:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-awareness-10.2.1.aar/5e5c05ef6da58c12901b56e8c8f94b0e/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-games:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-games-10.2.1.aar/529533a386ff263afb77da09f699e178/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-drive:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-drive-10.2.1.aar/b4c30764ac9eea97f41091113eabeef0/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-fitness:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-fitness-10.2.1.aar/5e77ab024c3082fe59bba54050488b86/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-gcm:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-gcm-10.2.1.aar/f6b5fddb1183400b825d0cb6a71fdb72/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.firebase:firebase-appindexing:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-10.2.1.aar/5d3024d2e374f2ac1aec7011fcd18f79/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-wallet:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-wallet-10.2.1.aar/8fc13a6101b8262c92bc17a833c1bc37/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-identity:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-identity-10.2.1.aar/fd36dd69643f1abf49dd97fd26dae471/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-iid:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-iid-10.2.1.aar/fed55f3af715ef5f2519cdcf8cc489b7/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-instantapps:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-instantapps-10.2.1.aar/4981b49d994dfccd8746618205ed9ada/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.android.gms:play-services-location:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-location-10.2.1.aar/1dd2ebc3cfdc2b83d4a490a579891268/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-places:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-places-10.2.1.aar/5647e589f150d0b1e58d4a8308d7d84b/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.1.aar/11cc89d47b09c1d20f8d0f4411e4d5dd/AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-nearby:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-nearby-10.2.1.aar/4e36f067aad23663fe6d6b3f219ce0db/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-panorama:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-panorama-10.2.1.aar/d2e00d170e89f96b2b24152704360917/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-plus:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-plus-10.2.1.aar/7e809c39e5cfc3a1ddfb221c34e07f2c/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-safetynet:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-10.2.1.aar/c0b4d3c056b1947661f81439c5bcd922/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-vision:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-vision-10.2.1.aar/01b2ab1cfb7be1451bc3acd5019b150b/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-wearable:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-wearable-10.2.1.aar/35c12709978ec7f8fe7a8e92294cdfb8/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-base:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.1.aar/314782f8d0a5ba1e3a641f4dff3991f6/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-database-connection:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-10.2.1.aar/a3a40354354cd3f00f7784c32abbe281/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-messaging:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-messaging-10.2.1.aar/b2bb482ec7d7a1066bcce22509157860/AndroidManifest.xml:16:1-30:12
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.2.1.aar/d6c313856f5ad855f078e9c210606805/AndroidManifest.xml:16:1-29:12
+MERGED from [com.google.firebase:firebase-iid:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/2bf37bb13e3d5326d0c31a8580c60187/AndroidManifest.xml:16:1-50:12
+MERGED from [com.google.firebase:firebase-common:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-common-10.2.1.aar/e0cf81fc2377388393b671235dcd58a1/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.2.1.aar/a8eda39b61b625504b66121aa6c8b349/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.firebase:firebase-storage-common:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-10.2.1.aar/05126655ecf1377917912eab0bd5dcb5/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-10.2.1.aar/98548c3989bd2813f6feca96762280c4/AndroidManifest.xml:16:1-28:12
+MERGED from [com.google.android.gms:play-services-gass:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-gass-10.2.1.aar/48db91909fcb49f56bab6cfdd42aee27/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.1.aar/3737d4a429e6b4d813f8782e234dc930/AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:transition:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/transition-25.3.0.aar/23ad53a5ede778b718ddcf30e85f568e/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.0.aar/a24cdce11a57978f79332dbd7ccc2f9d/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.0.aar/041af8c2a5b344e4a6e5db70cde28a37/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.0.aar/404e65deedf1421f296c677a56456063/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.0.aar/1f73ce4e0239ac6ca7b4d3963a023eca/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:palette-v7:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/palette-v7-25.3.0.aar/36f18f5b70189a4fcea30587babed0b5/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-utils:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.0.aar/b26253bd1660235442731e3d5f91ecaa/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/58baf3e625290b286cddfefc880f9231/AndroidManifest.xml:17:1-31:12
+INJECTED from /Users/mac24h/Desktop/AppFoody/Foody2/app/src/main/AndroidManifest.xml:2:1-85:12
+INJECTED from /Users/mac24h/Desktop/AppFoody/Foody2/app/src/main/AndroidManifest.xml:2:1-85:12
+INJECTED from /Users/mac24h/Desktop/AppFoody/Foody2/app/src/main/AndroidManifest.xml:2:1-85:12
+	package
+		ADDED from /Users/mac24h/Desktop/AppFoody/Foody2/app/src/main/AndroidManifest.xml:3:5-45
+		INJECTED from /Users/mac24h/Desktop/AppFoody/Foody2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac24h/Desktop/AppFoody/Foody2/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/mac24h/Desktop/AppFoody/Foody2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac24h/Desktop/AppFoody/Foody2/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/mac24h/Desktop/AppFoody/Foody2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac24h/Desktop/AppFoody/Foody2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/mac24h/Desktop/AppFoody/Foody2/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/mac24h/Desktop/AppFoody/Foody2/app/src/main/AndroidManifest.xml:6:5-66
+MERGED from [com.google.firebase:firebase-crash:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-crash-10.2.1.aar/feaabeed7ec300271eb740c9d125f1d9/AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-crash:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-crash-10.2.1.aar/feaabeed7ec300271eb740c9d125f1d9/AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-10.2.1.aar/c45fc2c1e7c8430e0a9695a1f3d524ca/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-10.2.1.aar/c45fc2c1e7c8430e0a9695a1f3d524ca/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.1.aar/ff5e6948252fa237a97d760e2811a65d/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.1.aar/ff5e6948252fa237a97d760e2811a65d/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-analytics-10.2.1.aar/0f6bd65696342656437a7169a8550732/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-analytics-10.2.1.aar/0f6bd65696342656437a7169a8550732/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-10.2.1.aar/1d0f9ddf23043e04d26edebf0f61e932/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-10.2.1.aar/1d0f9ddf23043e04d26edebf0f61e932/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-10.2.1.aar/128e1a60fb2f4da5dee0d4e32951b978/AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-10.2.1.aar/128e1a60fb2f4da5dee0d4e32951b978/AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-gcm:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-gcm-10.2.1.aar/f6b5fddb1183400b825d0cb6a71fdb72/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-gcm:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-gcm-10.2.1.aar/f6b5fddb1183400b825d0cb6a71fdb72/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-iid-10.2.1.aar/fed55f3af715ef5f2519cdcf8cc489b7/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-iid-10.2.1.aar/fed55f3af715ef5f2519cdcf8cc489b7/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.1.aar/11cc89d47b09c1d20f8d0f4411e4d5dd/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.1.aar/11cc89d47b09c1d20f8d0f4411e4d5dd/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.2.1.aar/d6c313856f5ad855f078e9c210606805/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.2.1.aar/d6c313856f5ad855f078e9c210606805/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/2bf37bb13e3d5326d0c31a8580c60187/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/2bf37bb13e3d5326d0c31a8580c60187/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-10.2.1.aar/98548c3989bd2813f6feca96762280c4/AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-10.2.1.aar/98548c3989bd2813f6feca96762280c4/AndroidManifest.xml:19:5-66
+	android:name
+		ADDED from /Users/mac24h/Desktop/AppFoody/Foody2/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/mac24h/Desktop/AppFoody/Foody2/app/src/main/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from /Users/mac24h/Desktop/AppFoody/Foody2/app/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/mac24h/Desktop/AppFoody/Foody2/app/src/main/AndroidManifest.xml:8:5-78
+	android:name
+		ADDED from /Users/mac24h/Desktop/AppFoody/Foody2/app/src/main/AndroidManifest.xml:8:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/mac24h/Desktop/AppFoody/Foody2/app/src/main/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from /Users/mac24h/Desktop/AppFoody/Foody2/app/src/main/AndroidManifest.xml:9:22-77
+application
+ADDED from /Users/mac24h/Desktop/AppFoody/Foody2/app/src/main/AndroidManifest.xml:11:5-83:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.25.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.25.0.aar/580a0dbd66dbc3ea610033fa7da2bd8a/AndroidManifest.xml:28:5-48:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.25.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.25.0.aar/580a0dbd66dbc3ea610033fa7da2bd8a/AndroidManifest.xml:28:5-48:19
+MERGED from [com.android.support:design:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/design-25.3.0.aar/3172513bef2979f2ea4b33d00e921d51/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/design-25.3.0.aar/3172513bef2979f2ea4b33d00e921d51/AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-10.2.1.aar/0e466c7e99874cb8bce82e755d3b2538/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-10.2.1.aar/0e466c7e99874cb8bce82e755d3b2538/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-10.2.1.aar/7c741e90480dfa4573f3181061db56d3/AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast-framework:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-10.2.1.aar/7c741e90480dfa4573f3181061db56d3/AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-cast-10.2.1.aar/7343abd214670cdad2d668a5ea391a74/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-cast:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-cast-10.2.1.aar/7343abd214670cdad2d668a5ea391a74/AndroidManifest.xml:18:5-19
+MERGED from [com.android.support:mediarouter-v7:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-25.3.0.aar/0b1bd05d1f1be8a6eb5af5b3735a2b07/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:mediarouter-v7:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-25.3.0.aar/0b1bd05d1f1be8a6eb5af5b3735a2b07/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/f55dc84c4213adfbf8bbd83834430a3b/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/f55dc84c4213adfbf8bbd83834430a3b/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/04da0f1fb7a6ef036181c8c8e1ed4fcf/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/04da0f1fb7a6ef036181c8c8e1ed4fcf/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-core:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-core-10.2.1.aar/1413bf32293333ef8287176b1204a7cf/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-core-10.2.1.aar/1413bf32293333ef8287176b1204a7cf/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-auth:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-auth-10.2.1.aar/c637e7674a496bac271a4e8aa6f1852b/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-auth:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-auth-10.2.1.aar/c637e7674a496bac271a4e8aa6f1852b/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.android.gms:play-services-auth:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-auth-10.2.1.aar/300af5c791085bc5cadd730faed359d0/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-auth:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-auth-10.2.1.aar/300af5c791085bc5cadd730faed359d0/AndroidManifest.xml:19:5-25:19
+MERGED from [com.android.support:cardview-v7:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.0.aar/029d367cb28f04a431b6ad7bd56e15d3/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.0.aar/029d367cb28f04a431b6ad7bd56e15d3/AndroidManifest.xml:26:5-20
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/circleimageview-2.1.0.aar/78ac7930dca75758b8a866a44c3ba65e/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/circleimageview-2.1.0.aar/78ac7930dca75758b8a866a44c3ba65e/AndroidManifest.xml:9:5-20
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/9ebf5c838b722cf983a036f641431fde/AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/9ebf5c838b722cf983a036f641431fde/AndroidManifest.xml:7:5-11:19
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.0.aar/063be0e7a353f5d8c3916355c80309a1/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.0.aar/063be0e7a353f5d8c3916355c80309a1/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.0.aar/e2aa390a8b1fa4ff7dea0c1c9450af49/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.0.aar/e2aa390a8b1fa4ff7dea0c1c9450af49/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:customtabs:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/customtabs-25.3.0.aar/4058f69bef895203881b154177096260/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:customtabs:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/customtabs-25.3.0.aar/4058f69bef895203881b154177096260/AndroidManifest.xml:26:5-20
+MERGED from [com.google.firebase:firebase-crash:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-crash-10.2.1.aar/feaabeed7ec300271eb740c9d125f1d9/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-crash:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-crash-10.2.1.aar/feaabeed7ec300271eb740c9d125f1d9/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-10.2.1.aar/c45fc2c1e7c8430e0a9695a1f3d524ca/AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-10.2.1.aar/c45fc2c1e7c8430e0a9695a1f3d524ca/AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.1.aar/ff5e6948252fa237a97d760e2811a65d/AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.1.aar/ff5e6948252fa237a97d760e2811a65d/AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.android.gms:play-services-analytics:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-analytics-10.2.1.aar/0f6bd65696342656437a7169a8550732/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-analytics:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-analytics-10.2.1.aar/0f6bd65696342656437a7169a8550732/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-10.2.1.aar/ff0c42091e4de44b81aa25786318d19c/AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-10.2.1.aar/ff0c42091e4de44b81aa25786318d19c/AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-10.2.1.aar/1d0f9ddf23043e04d26edebf0f61e932/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-10.2.1.aar/1d0f9ddf23043e04d26edebf0f61e932/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-10.2.1.aar/128e1a60fb2f4da5dee0d4e32951b978/AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-10.2.1.aar/128e1a60fb2f4da5dee0d4e32951b978/AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-10.2.1.aar/ba59c70abbb554251ad2d293ee4b9dd4/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-10.2.1.aar/ba59c70abbb554251ad2d293ee4b9dd4/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-config-10.2.1.aar/2d6ad50a72b76d37f62796edd513ac4d/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-config-10.2.1.aar/2d6ad50a72b76d37f62796edd513ac4d/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-awareness-10.2.1.aar/5e5c05ef6da58c12901b56e8c8f94b0e/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-awareness-10.2.1.aar/5e5c05ef6da58c12901b56e8c8f94b0e/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-games-10.2.1.aar/529533a386ff263afb77da09f699e178/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-games-10.2.1.aar/529533a386ff263afb77da09f699e178/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-drive-10.2.1.aar/b4c30764ac9eea97f41091113eabeef0/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-drive-10.2.1.aar/b4c30764ac9eea97f41091113eabeef0/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-fitness:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-fitness-10.2.1.aar/5e77ab024c3082fe59bba54050488b86/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-fitness:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-fitness-10.2.1.aar/5e77ab024c3082fe59bba54050488b86/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gcm:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-gcm-10.2.1.aar/f6b5fddb1183400b825d0cb6a71fdb72/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-gcm:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-gcm-10.2.1.aar/f6b5fddb1183400b825d0cb6a71fdb72/AndroidManifest.xml:23:5-19
+MERGED from [com.google.firebase:firebase-appindexing:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-10.2.1.aar/5d3024d2e374f2ac1aec7011fcd18f79/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-appindexing:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-10.2.1.aar/5d3024d2e374f2ac1aec7011fcd18f79/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-identity:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-identity-10.2.1.aar/fd36dd69643f1abf49dd97fd26dae471/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-identity:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-identity-10.2.1.aar/fd36dd69643f1abf49dd97fd26dae471/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-iid:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-iid-10.2.1.aar/fed55f3af715ef5f2519cdcf8cc489b7/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-iid:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-iid-10.2.1.aar/fed55f3af715ef5f2519cdcf8cc489b7/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-location:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-location-10.2.1.aar/1dd2ebc3cfdc2b83d4a490a579891268/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-location:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-location-10.2.1.aar/1dd2ebc3cfdc2b83d4a490a579891268/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-places:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-places-10.2.1.aar/5647e589f150d0b1e58d4a8308d7d84b/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-places-10.2.1.aar/5647e589f150d0b1e58d4a8308d7d84b/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.1.aar/11cc89d47b09c1d20f8d0f4411e4d5dd/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.1.aar/11cc89d47b09c1d20f8d0f4411e4d5dd/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-nearby:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-nearby-10.2.1.aar/4e36f067aad23663fe6d6b3f219ce0db/AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-nearby:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-nearby-10.2.1.aar/4e36f067aad23663fe6d6b3f219ce0db/AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-panorama:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-panorama-10.2.1.aar/d2e00d170e89f96b2b24152704360917/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-panorama:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-panorama-10.2.1.aar/d2e00d170e89f96b2b24152704360917/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-plus-10.2.1.aar/7e809c39e5cfc3a1ddfb221c34e07f2c/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-plus-10.2.1.aar/7e809c39e5cfc3a1ddfb221c34e07f2c/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-10.2.1.aar/c0b4d3c056b1947661f81439c5bcd922/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-10.2.1.aar/c0b4d3c056b1947661f81439c5bcd922/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-vision:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-vision-10.2.1.aar/01b2ab1cfb7be1451bc3acd5019b150b/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-vision-10.2.1.aar/01b2ab1cfb7be1451bc3acd5019b150b/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-wearable:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-wearable-10.2.1.aar/35c12709978ec7f8fe7a8e92294cdfb8/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-wearable:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-wearable-10.2.1.aar/35c12709978ec7f8fe7a8e92294cdfb8/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.1.aar/314782f8d0a5ba1e3a641f4dff3991f6/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.1.aar/314782f8d0a5ba1e3a641f4dff3991f6/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-messaging:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-messaging-10.2.1.aar/b2bb482ec7d7a1066bcce22509157860/AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.firebase:firebase-messaging:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-messaging-10.2.1.aar/b2bb482ec7d7a1066bcce22509157860/AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.2.1.aar/d6c313856f5ad855f078e9c210606805/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.2.1.aar/d6c313856f5ad855f078e9c210606805/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/2bf37bb13e3d5326d0c31a8580c60187/AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-iid:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/2bf37bb13e3d5326d0c31a8580c60187/AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-common-10.2.1.aar/e0cf81fc2377388393b671235dcd58a1/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.firebase:firebase-common:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-common-10.2.1.aar/e0cf81fc2377388393b671235dcd58a1/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.2.1.aar/a8eda39b61b625504b66121aa6c8b349/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.2.1.aar/a8eda39b61b625504b66121aa6c8b349/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-10.2.1.aar/98548c3989bd2813f6feca96762280c4/AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-10.2.1.aar/98548c3989bd2813f6feca96762280c4/AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-gass:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-gass-10.2.1.aar/48db91909fcb49f56bab6cfdd42aee27/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gass:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-gass-10.2.1.aar/48db91909fcb49f56bab6cfdd42aee27/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.1.aar/3737d4a429e6b4d813f8782e234dc930/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.1.aar/3737d4a429e6b4d813f8782e234dc930/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:transition:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/transition-25.3.0.aar/23ad53a5ede778b718ddcf30e85f568e/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/transition-25.3.0.aar/23ad53a5ede778b718ddcf30e85f568e/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.0.aar/a24cdce11a57978f79332dbd7ccc2f9d/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.0.aar/a24cdce11a57978f79332dbd7ccc2f9d/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.0.aar/041af8c2a5b344e4a6e5db70cde28a37/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.0.aar/041af8c2a5b344e4a6e5db70cde28a37/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.0.aar/404e65deedf1421f296c677a56456063/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.0.aar/404e65deedf1421f296c677a56456063/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.0.aar/1f73ce4e0239ac6ca7b4d3963a023eca/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.0.aar/1f73ce4e0239ac6ca7b4d3963a023eca/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:palette-v7:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/palette-v7-25.3.0.aar/36f18f5b70189a4fcea30587babed0b5/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:palette-v7:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/palette-v7-25.3.0.aar/36f18f5b70189a4fcea30587babed0b5/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-core-utils:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.0.aar/b26253bd1660235442731e3d5f91ecaa/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.0.aar/b26253bd1660235442731e3d5f91ecaa/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/58baf3e625290b286cddfefc880f9231/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/58baf3e625290b286cddfefc880f9231/AndroidManifest.xml:29:5-20
+	android:supportsRtl
+		ADDED from /Users/mac24h/Desktop/AppFoody/Foody2/app/src/main/AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from /Users/mac24h/Desktop/AppFoody/Foody2/app/src/main/AndroidManifest.xml:14:9-41
+	android:roundIcon
+		ADDED from /Users/mac24h/Desktop/AppFoody/Foody2/app/src/main/AndroidManifest.xml:15:9-54
+	android:icon
+		ADDED from /Users/mac24h/Desktop/AppFoody/Foody2/app/src/main/AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from /Users/mac24h/Desktop/AppFoody/Foody2/app/src/main/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /Users/mac24h/Desktop/AppFoody/Foody2/app/src/main/AndroidManifest.xml:17:9-40
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/mac24h/Desktop/AppFoody/Foody2/app/src/main/AndroidManifest.xml:19:9-21:70
+	android:value
+		ADDED from /Users/mac24h/Desktop/AppFoody/Foody2/app/src/main/AndroidManifest.xml:21:13-68
+	android:name
+		ADDED from /Users/mac24h/Desktop/AppFoody/Foody2/app/src/main/AndroidManifest.xml:20:13-58
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from /Users/mac24h/Desktop/AppFoody/Foody2/app/src/main/AndroidManifest.xml:23:9-98
+	android:value
+		ADDED from /Users/mac24h/Desktop/AppFoody/Foody2/app/src/main/AndroidManifest.xml:23:66-96
+	android:name
+		ADDED from /Users/mac24h/Desktop/AppFoody/Foody2/app/src/main/AndroidManifest.xml:23:20-65
+activity#com.itschool.checongbinh.foody.View.SlashScreenActivity
+ADDED from /Users/mac24h/Desktop/AppFoody/Foody2/app/src/main/AndroidManifest.xml:25:9-27:20
+	android:name
+		ADDED from /Users/mac24h/Desktop/AppFoody/Foody2/app/src/main/AndroidManifest.xml:25:19-59
+activity#com.itschool.checongbinh.foody.View.DangNhapActivity
+ADDED from /Users/mac24h/Desktop/AppFoody/Foody2/app/src/main/AndroidManifest.xml:29:9-31:20
+	android:name
+		ADDED from /Users/mac24h/Desktop/AppFoody/Foody2/app/src/main/AndroidManifest.xml:29:19-56
+activity#com.itschool.checongbinh.foody.View.TrangChuActivity
+ADDED from /Users/mac24h/Desktop/AppFoody/Foody2/app/src/main/AndroidManifest.xml:33:9-35:20
+	android:name
+		ADDED from /Users/mac24h/Desktop/AppFoody/Foody2/app/src/main/AndroidManifest.xml:33:19-56
+activity#com.itschool.checongbinh.foody.View.DangKyActivity
+ADDED from /Users/mac24h/Desktop/AppFoody/Foody2/app/src/main/AndroidManifest.xml:37:9-39:20
+	android:name
+		ADDED from /Users/mac24h/Desktop/AppFoody/Foody2/app/src/main/AndroidManifest.xml:37:19-54
+activity#com.itschool.checongbinh.foody.View.KhoiPhucMatKhauActivity
+ADDED from /Users/mac24h/Desktop/AppFoody/Foody2/app/src/main/AndroidManifest.xml:41:9-43:20
+	android:name
+		ADDED from /Users/mac24h/Desktop/AppFoody/Foody2/app/src/main/AndroidManifest.xml:41:19-63
+activity#com.itschool.checongbinh.foody.View.ChiTietQuanAnActivity
+ADDED from /Users/mac24h/Desktop/AppFoody/Foody2/app/src/main/AndroidManifest.xml:45:9-47:20
+	android:name
+		ADDED from /Users/mac24h/Desktop/AppFoody/Foody2/app/src/main/AndroidManifest.xml:45:19-61
+activity#com.itschool.checongbinh.foody.View.HienThiChiTietBinhLuanActivity
+ADDED from /Users/mac24h/Desktop/AppFoody/Foody2/app/src/main/AndroidManifest.xml:49:9-51:20
+	android:name
+		ADDED from /Users/mac24h/Desktop/AppFoody/Foody2/app/src/main/AndroidManifest.xml:49:19-70
+activity#com.itschool.checongbinh.foody.View.CapNhatDanhSachWifiActivity
+ADDED from /Users/mac24h/Desktop/AppFoody/Foody2/app/src/main/AndroidManifest.xml:53:9-55:20
+	android:name
+		ADDED from /Users/mac24h/Desktop/AppFoody/Foody2/app/src/main/AndroidManifest.xml:53:19-67
+activity#com.itschool.checongbinh.foody.View.PopupCapNhatWifiActivity
+ADDED from /Users/mac24h/Desktop/AppFoody/Foody2/app/src/main/AndroidManifest.xml:57:9-61:20
+	android:theme
+		ADDED from /Users/mac24h/Desktop/AppFoody/Foody2/app/src/main/AndroidManifest.xml:58:13-64
+	android:name
+		ADDED from /Users/mac24h/Desktop/AppFoody/Foody2/app/src/main/AndroidManifest.xml:57:19-64
+activity#com.itschool.checongbinh.foody.View.DanDuongToiQuanAnActivity
+ADDED from /Users/mac24h/Desktop/AppFoody/Foody2/app/src/main/AndroidManifest.xml:63:9-65:20
+	android:name
+		ADDED from /Users/mac24h/Desktop/AppFoody/Foody2/app/src/main/AndroidManifest.xml:63:19-65
+activity#com.itschool.checongbinh.foody.View.BinhLuanActivity
+ADDED from /Users/mac24h/Desktop/AppFoody/Foody2/app/src/main/AndroidManifest.xml:67:9-69:20
+	android:name
+		ADDED from /Users/mac24h/Desktop/AppFoody/Foody2/app/src/main/AndroidManifest.xml:67:19-56
+activity#com.itschool.checongbinh.foody.View.ChonHinhBinhLuanActivity
+ADDED from /Users/mac24h/Desktop/AppFoody/Foody2/app/src/main/AndroidManifest.xml:71:9-73:20
+	android:name
+		ADDED from /Users/mac24h/Desktop/AppFoody/Foody2/app/src/main/AndroidManifest.xml:71:19-64
+activity#com.itschool.checongbinh.foody.View.ThemQuanAnActivity
+ADDED from /Users/mac24h/Desktop/AppFoody/Foody2/app/src/main/AndroidManifest.xml:75:9-81:20
+	android:name
+		ADDED from /Users/mac24h/Desktop/AppFoody/Foody2/app/src/main/AndroidManifest.xml:75:19-58
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/mac24h/Desktop/AppFoody/Foody2/app/src/main/AndroidManifest.xml:76:13-80:29
+action#android.intent.action.MAIN
+ADDED from /Users/mac24h/Desktop/AppFoody/Foody2/app/src/main/AndroidManifest.xml:77:17-69
+	android:name
+		ADDED from /Users/mac24h/Desktop/AppFoody/Foody2/app/src/main/AndroidManifest.xml:77:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/mac24h/Desktop/AppFoody/Foody2/app/src/main/AndroidManifest.xml:79:17-77
+	android:name
+		ADDED from /Users/mac24h/Desktop/AppFoody/Foody2/app/src/main/AndroidManifest.xml:79:27-74
+uses-sdk
+INJECTED from /Users/mac24h/Desktop/AppFoody/Foody2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/mac24h/Desktop/AppFoody/Foody2/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mac24h/Desktop/AppFoody/Foody2/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.android:facebook-android-sdk:4.25.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.25.0.aar/580a0dbd66dbc3ea610033fa7da2bd8a/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.25.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.25.0.aar/580a0dbd66dbc3ea610033fa7da2bd8a/AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:design:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/design-25.3.0.aar/3172513bef2979f2ea4b33d00e921d51/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/design-25.3.0.aar/3172513bef2979f2ea4b33d00e921d51/AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-10.2.1.aar/0e466c7e99874cb8bce82e755d3b2538/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-10.2.1.aar/0e466c7e99874cb8bce82e755d3b2538/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-10.2.1.aar/7c741e90480dfa4573f3181061db56d3/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-10.2.1.aar/7c741e90480dfa4573f3181061db56d3/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-cast:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-cast-10.2.1.aar/7343abd214670cdad2d668a5ea391a74/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-cast:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-cast-10.2.1.aar/7343abd214670cdad2d668a5ea391a74/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:mediarouter-v7:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-25.3.0.aar/0b1bd05d1f1be8a6eb5af5b3735a2b07/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:mediarouter-v7:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-25.3.0.aar/0b1bd05d1f1be8a6eb5af5b3735a2b07/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/f55dc84c4213adfbf8bbd83834430a3b/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/f55dc84c4213adfbf8bbd83834430a3b/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/04da0f1fb7a6ef036181c8c8e1ed4fcf/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/04da0f1fb7a6ef036181c8c8e1ed4fcf/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-core:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-core-10.2.1.aar/1413bf32293333ef8287176b1204a7cf/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-core-10.2.1.aar/1413bf32293333ef8287176b1204a7cf/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-auth:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-auth-10.2.1.aar/c637e7674a496bac271a4e8aa6f1852b/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-auth:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-auth-10.2.1.aar/c637e7674a496bac271a4e8aa6f1852b/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-auth-10.2.1.aar/300af5c791085bc5cadd730faed359d0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-auth-10.2.1.aar/300af5c791085bc5cadd730faed359d0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-database-10.2.1.aar/3a400c980814c4b661a47a4a9e0f5c95/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-database-10.2.1.aar/3a400c980814c4b661a47a4a9e0f5c95/AndroidManifest.xml:3:5-43
+MERGED from [com.android.support:cardview-v7:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.0.aar/029d367cb28f04a431b6ad7bd56e15d3/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.0.aar/029d367cb28f04a431b6ad7bd56e15d3/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.0.aar/1d051a8e4b4b77d02d159aa381bd6a13/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.0.aar/1d051a8e4b4b77d02d159aa381bd6a13/AndroidManifest.xml:20:5-43
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/circleimageview-2.1.0.aar/78ac7930dca75758b8a866a44c3ba65e/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/circleimageview-2.1.0.aar/78ac7930dca75758b8a866a44c3ba65e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-storage:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-storage-10.2.1.aar/79cf865794e35a2993161975374b838b/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-storage-10.2.1.aar/79cf865794e35a2993161975374b838b/AndroidManifest.xml:3:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/9ebf5c838b722cf983a036f641431fde/AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/9ebf5c838b722cf983a036f641431fde/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:multidex:1.0.2] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/ac56522df34b2db3b19727372eaf3fef/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/ac56522df34b2db3b19727372eaf3fef/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.0.aar/063be0e7a353f5d8c3916355c80309a1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.0.aar/063be0e7a353f5d8c3916355c80309a1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.0.aar/e2aa390a8b1fa4ff7dea0c1c9450af49/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.0.aar/e2aa390a8b1fa4ff7dea0c1c9450af49/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:customtabs:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/customtabs-25.3.0.aar/4058f69bef895203881b154177096260/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/customtabs-25.3.0.aar/4058f69bef895203881b154177096260/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-crash-10.2.1.aar/feaabeed7ec300271eb740c9d125f1d9/AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-crash:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-crash-10.2.1.aar/feaabeed7ec300271eb740c9d125f1d9/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-10.2.1.aar/1782bd7706c0464c705686c1cd7948e7/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-10.2.1.aar/1782bd7706c0464c705686c1cd7948e7/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-10.2.1.aar/c45fc2c1e7c8430e0a9695a1f3d524ca/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-10.2.1.aar/c45fc2c1e7c8430e0a9695a1f3d524ca/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.1.aar/ff5e6948252fa237a97d760e2811a65d/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.1.aar/ff5e6948252fa237a97d760e2811a65d/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-10.2.1.aar/7b3c8cdeb12b53de742679fa42129b4d/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-10.2.1.aar/7b3c8cdeb12b53de742679fa42129b4d/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-ads-10.2.1.aar/2285706a85ac056ea9120fab11a59f6f/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-ads-10.2.1.aar/2285706a85ac056ea9120fab11a59f6f/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-analytics-10.2.1.aar/0f6bd65696342656437a7169a8550732/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-analytics-10.2.1.aar/0f6bd65696342656437a7169a8550732/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-10.2.1.aar/ff0c42091e4de44b81aa25786318d19c/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-10.2.1.aar/ff0c42091e4de44b81aa25786318d19c/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-10.2.1.aar/1d0f9ddf23043e04d26edebf0f61e932/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-10.2.1.aar/1d0f9ddf23043e04d26edebf0f61e932/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-10.2.1.aar/128e1a60fb2f4da5dee0d4e32951b978/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-10.2.1.aar/128e1a60fb2f4da5dee0d4e32951b978/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-10.2.1.aar/ba59c70abbb554251ad2d293ee4b9dd4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-10.2.1.aar/ba59c70abbb554251ad2d293ee4b9dd4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-config:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-config-10.2.1.aar/2d6ad50a72b76d37f62796edd513ac4d/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-config:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-config-10.2.1.aar/2d6ad50a72b76d37f62796edd513ac4d/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-awareness:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-awareness-10.2.1.aar/5e5c05ef6da58c12901b56e8c8f94b0e/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-awareness:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-awareness-10.2.1.aar/5e5c05ef6da58c12901b56e8c8f94b0e/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-games:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-games-10.2.1.aar/529533a386ff263afb77da09f699e178/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-games:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-games-10.2.1.aar/529533a386ff263afb77da09f699e178/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-drive:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-drive-10.2.1.aar/b4c30764ac9eea97f41091113eabeef0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-drive:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-drive-10.2.1.aar/b4c30764ac9eea97f41091113eabeef0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-fitness:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-fitness-10.2.1.aar/5e77ab024c3082fe59bba54050488b86/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-fitness:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-fitness-10.2.1.aar/5e77ab024c3082fe59bba54050488b86/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gcm:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-gcm-10.2.1.aar/f6b5fddb1183400b825d0cb6a71fdb72/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gcm:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-gcm-10.2.1.aar/f6b5fddb1183400b825d0cb6a71fdb72/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-appindexing:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-10.2.1.aar/5d3024d2e374f2ac1aec7011fcd18f79/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-appindexing:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-10.2.1.aar/5d3024d2e374f2ac1aec7011fcd18f79/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-wallet:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-wallet-10.2.1.aar/8fc13a6101b8262c92bc17a833c1bc37/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-wallet:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-wallet-10.2.1.aar/8fc13a6101b8262c92bc17a833c1bc37/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-identity:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-identity-10.2.1.aar/fd36dd69643f1abf49dd97fd26dae471/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-identity:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-identity-10.2.1.aar/fd36dd69643f1abf49dd97fd26dae471/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-iid-10.2.1.aar/fed55f3af715ef5f2519cdcf8cc489b7/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-iid-10.2.1.aar/fed55f3af715ef5f2519cdcf8cc489b7/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-instantapps:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-instantapps-10.2.1.aar/4981b49d994dfccd8746618205ed9ada/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-instantapps:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-instantapps-10.2.1.aar/4981b49d994dfccd8746618205ed9ada/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-location-10.2.1.aar/1dd2ebc3cfdc2b83d4a490a579891268/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-location-10.2.1.aar/1dd2ebc3cfdc2b83d4a490a579891268/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-places:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-places-10.2.1.aar/5647e589f150d0b1e58d4a8308d7d84b/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-places:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-places-10.2.1.aar/5647e589f150d0b1e58d4a8308d7d84b/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.1.aar/11cc89d47b09c1d20f8d0f4411e4d5dd/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.1.aar/11cc89d47b09c1d20f8d0f4411e4d5dd/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-nearby:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-nearby-10.2.1.aar/4e36f067aad23663fe6d6b3f219ce0db/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-nearby:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-nearby-10.2.1.aar/4e36f067aad23663fe6d6b3f219ce0db/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-panorama:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-panorama-10.2.1.aar/d2e00d170e89f96b2b24152704360917/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-panorama:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-panorama-10.2.1.aar/d2e00d170e89f96b2b24152704360917/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-plus:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-plus-10.2.1.aar/7e809c39e5cfc3a1ddfb221c34e07f2c/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-plus:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-plus-10.2.1.aar/7e809c39e5cfc3a1ddfb221c34e07f2c/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-10.2.1.aar/c0b4d3c056b1947661f81439c5bcd922/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-10.2.1.aar/c0b4d3c056b1947661f81439c5bcd922/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-vision:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-vision-10.2.1.aar/01b2ab1cfb7be1451bc3acd5019b150b/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-vision:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-vision-10.2.1.aar/01b2ab1cfb7be1451bc3acd5019b150b/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-wearable:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-wearable-10.2.1.aar/35c12709978ec7f8fe7a8e92294cdfb8/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-wearable:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-wearable-10.2.1.aar/35c12709978ec7f8fe7a8e92294cdfb8/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.1.aar/314782f8d0a5ba1e3a641f4dff3991f6/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.1.aar/314782f8d0a5ba1e3a641f4dff3991f6/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database-connection:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-10.2.1.aar/a3a40354354cd3f00f7784c32abbe281/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-10.2.1.aar/a3a40354354cd3f00f7784c32abbe281/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-messaging:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-messaging-10.2.1.aar/b2bb482ec7d7a1066bcce22509157860/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-messaging:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-messaging-10.2.1.aar/b2bb482ec7d7a1066bcce22509157860/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.2.1.aar/d6c313856f5ad855f078e9c210606805/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.2.1.aar/d6c313856f5ad855f078e9c210606805/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/2bf37bb13e3d5326d0c31a8580c60187/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/2bf37bb13e3d5326d0c31a8580c60187/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-common-10.2.1.aar/e0cf81fc2377388393b671235dcd58a1/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-common:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-common-10.2.1.aar/e0cf81fc2377388393b671235dcd58a1/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.2.1.aar/a8eda39b61b625504b66121aa6c8b349/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.2.1.aar/a8eda39b61b625504b66121aa6c8b349/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-10.2.1.aar/05126655ecf1377917912eab0bd5dcb5/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-10.2.1.aar/05126655ecf1377917912eab0bd5dcb5/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-10.2.1.aar/98548c3989bd2813f6feca96762280c4/AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-10.2.1.aar/98548c3989bd2813f6feca96762280c4/AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-gass:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-gass-10.2.1.aar/48db91909fcb49f56bab6cfdd42aee27/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-gass:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-gass-10.2.1.aar/48db91909fcb49f56bab6cfdd42aee27/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.1.aar/3737d4a429e6b4d813f8782e234dc930/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.1.aar/3737d4a429e6b4d813f8782e234dc930/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:transition:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/transition-25.3.0.aar/23ad53a5ede778b718ddcf30e85f568e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/transition-25.3.0.aar/23ad53a5ede778b718ddcf30e85f568e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.0.aar/a24cdce11a57978f79332dbd7ccc2f9d/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.0.aar/a24cdce11a57978f79332dbd7ccc2f9d/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.0.aar/041af8c2a5b344e4a6e5db70cde28a37/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.0.aar/041af8c2a5b344e4a6e5db70cde28a37/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.0.aar/404e65deedf1421f296c677a56456063/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.0.aar/404e65deedf1421f296c677a56456063/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.0.aar/1f73ce4e0239ac6ca7b4d3963a023eca/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.0.aar/1f73ce4e0239ac6ca7b4d3963a023eca/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:palette-v7:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/palette-v7-25.3.0.aar/36f18f5b70189a4fcea30587babed0b5/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/palette-v7-25.3.0.aar/36f18f5b70189a4fcea30587babed0b5/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-utils:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.0.aar/b26253bd1660235442731e3d5f91ecaa/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.0.aar/b26253bd1660235442731e3d5f91ecaa/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/58baf3e625290b286cddfefc880f9231/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/58baf3e625290b286cddfefc880f9231/AndroidManifest.xml:21:5-23:58
+INJECTED from /Users/mac24h/Desktop/AppFoody/Foody2/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mac24h/Desktop/AppFoody/Foody2/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/design-25.3.0.aar/3172513bef2979f2ea4b33d00e921d51/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/mac24h/Desktop/AppFoody/Foody2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac24h/Desktop/AppFoody/Foody2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/mac24h/Desktop/AppFoody/Foody2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac24h/Desktop/AppFoody/Foody2/app/src/main/AndroidManifest.xml
+activity#com.facebook.FacebookActivity
+ADDED from [com.facebook.android:facebook-android-sdk:4.25.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.25.0.aar/580a0dbd66dbc3ea610033fa7da2bd8a/AndroidManifest.xml:29:9-32:66
+	android:configChanges
+		ADDED from [com.facebook.android:facebook-android-sdk:4.25.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.25.0.aar/580a0dbd66dbc3ea610033fa7da2bd8a/AndroidManifest.xml:31:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-android-sdk:4.25.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.25.0.aar/580a0dbd66dbc3ea610033fa7da2bd8a/AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.25.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.25.0.aar/580a0dbd66dbc3ea610033fa7da2bd8a/AndroidManifest.xml:30:13-57
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-android-sdk:4.25.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.25.0.aar/580a0dbd66dbc3ea610033fa7da2bd8a/AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.25.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.25.0.aar/580a0dbd66dbc3ea610033fa7da2bd8a/AndroidManifest.xml:33:19-68
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-android-sdk:4.25.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.25.0.aar/580a0dbd66dbc3ea610033fa7da2bd8a/AndroidManifest.xml:44:9-47:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-android-sdk:4.25.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.25.0.aar/580a0dbd66dbc3ea610033fa7da2bd8a/AndroidManifest.xml:46:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-android-sdk:4.25.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.25.0.aar/580a0dbd66dbc3ea610033fa7da2bd8a/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.25.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.25.0.aar/580a0dbd66dbc3ea610033fa7da2bd8a/AndroidManifest.xml:45:13-70
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/design-25.3.0.aar/3172513bef2979f2ea4b33d00e921d51/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:mediarouter-v7:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-25.3.0.aar/0b1bd05d1f1be8a6eb5af5b3735a2b07/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:mediarouter-v7:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-25.3.0.aar/0b1bd05d1f1be8a6eb5af5b3735a2b07/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/f55dc84c4213adfbf8bbd83834430a3b/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/f55dc84c4213adfbf8bbd83834430a3b/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:cardview-v7:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.0.aar/029d367cb28f04a431b6ad7bd56e15d3/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.0.aar/029d367cb28f04a431b6ad7bd56e15d3/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.0.aar/1d051a8e4b4b77d02d159aa381bd6a13/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.0.aar/1d051a8e4b4b77d02d159aa381bd6a13/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.0.aar/063be0e7a353f5d8c3916355c80309a1/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.0.aar/063be0e7a353f5d8c3916355c80309a1/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.0.aar/e2aa390a8b1fa4ff7dea0c1c9450af49/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.0.aar/e2aa390a8b1fa4ff7dea0c1c9450af49/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:customtabs:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/customtabs-25.3.0.aar/4058f69bef895203881b154177096260/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:customtabs:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/customtabs-25.3.0.aar/4058f69bef895203881b154177096260/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/transition-25.3.0.aar/23ad53a5ede778b718ddcf30e85f568e/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/transition-25.3.0.aar/23ad53a5ede778b718ddcf30e85f568e/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.0.aar/a24cdce11a57978f79332dbd7ccc2f9d/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.0.aar/a24cdce11a57978f79332dbd7ccc2f9d/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.0.aar/041af8c2a5b344e4a6e5db70cde28a37/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.0.aar/041af8c2a5b344e4a6e5db70cde28a37/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.0.aar/404e65deedf1421f296c677a56456063/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.0.aar/404e65deedf1421f296c677a56456063/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.0.aar/1f73ce4e0239ac6ca7b4d3963a023eca/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.0.aar/1f73ce4e0239ac6ca7b4d3963a023eca/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:palette-v7:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/palette-v7-25.3.0.aar/36f18f5b70189a4fcea30587babed0b5/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:palette-v7:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/palette-v7-25.3.0.aar/36f18f5b70189a4fcea30587babed0b5/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-core-utils:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.0.aar/b26253bd1660235442731e3d5f91ecaa/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.0.aar/b26253bd1660235442731e3d5f91ecaa/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/58baf3e625290b286cddfefc880f9231/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/58baf3e625290b286cddfefc880f9231/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/design-25.3.0.aar/3172513bef2979f2ea4b33d00e921d51/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.0] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/design-25.3.0.aar/3172513bef2979f2ea4b33d00e921d51/AndroidManifest.xml:26:9-47
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-10.2.1.aar/7c741e90480dfa4573f3181061db56d3/AndroidManifest.xml:5:9-99
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-10.2.1.aar/7c741e90480dfa4573f3181061db56d3/AndroidManifest.xml:5:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-10.2.1.aar/7c741e90480dfa4573f3181061db56d3/AndroidManifest.xml:6:9-103
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-10.2.1.aar/7c741e90480dfa4573f3181061db56d3/AndroidManifest.xml:6:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-10.2.1.aar/7c741e90480dfa4573f3181061db56d3/AndroidManifest.xml:7:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-10.2.1.aar/7c741e90480dfa4573f3181061db56d3/AndroidManifest.xml:7:18-90
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-auth-10.2.1.aar/300af5c791085bc5cadd730faed359d0/AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-auth-10.2.1.aar/300af5c791085bc5cadd730faed359d0/AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-auth-10.2.1.aar/300af5c791085bc5cadd730faed359d0/AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-auth-10.2.1.aar/300af5c791085bc5cadd730faed359d0/AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-auth-10.2.1.aar/300af5c791085bc5cadd730faed359d0/AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-auth-10.2.1.aar/300af5c791085bc5cadd730faed359d0/AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-auth-10.2.1.aar/300af5c791085bc5cadd730faed359d0/AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-auth-10.2.1.aar/300af5c791085bc5cadd730faed359d0/AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-auth-10.2.1.aar/300af5c791085bc5cadd730faed359d0/AndroidManifest.xml:24:18-63
+meta-data#com.google.android.gms.version
+ADDED from [com.google.maps.android:android-maps-utils:0.5] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/9ebf5c838b722cf983a036f641431fde/AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.1.aar/3737d4a429e6b4d813f8782e234dc930/AndroidManifest.xml:20:9-121
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.1.aar/3737d4a429e6b4d813f8782e234dc930/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.maps.android:android-maps-utils:0.5] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/9ebf5c838b722cf983a036f641431fde/AndroidManifest.xml:10:13-66
+	android:name
+		ADDED from [com.google.maps.android:android-maps-utils:0.5] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/9ebf5c838b722cf983a036f641431fde/AndroidManifest.xml:9:13-58
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-10.2.1.aar/c45fc2c1e7c8430e0a9695a1f3d524ca/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.1.aar/ff5e6948252fa237a97d760e2811a65d/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.1.aar/ff5e6948252fa237a97d760e2811a65d/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-analytics-10.2.1.aar/0f6bd65696342656437a7169a8550732/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-analytics-10.2.1.aar/0f6bd65696342656437a7169a8550732/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-10.2.1.aar/1d0f9ddf23043e04d26edebf0f61e932/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-10.2.1.aar/1d0f9ddf23043e04d26edebf0f61e932/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.1.aar/11cc89d47b09c1d20f8d0f4411e4d5dd/AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.1.aar/11cc89d47b09c1d20f8d0f4411e4d5dd/AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-nearby:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-nearby-10.2.1.aar/4e36f067aad23663fe6d6b3f219ce0db/AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-nearby:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-nearby-10.2.1.aar/4e36f067aad23663fe6d6b3f219ce0db/AndroidManifest.xml:4:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.2.1.aar/d6c313856f5ad855f078e9c210606805/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.2.1.aar/d6c313856f5ad855f078e9c210606805/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/2bf37bb13e3d5326d0c31a8580c60187/AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-iid:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/2bf37bb13e3d5326d0c31a8580c60187/AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-10.2.1.aar/98548c3989bd2813f6feca96762280c4/AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-10.2.1.aar/98548c3989bd2813f6feca96762280c4/AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-10.2.1.aar/c45fc2c1e7c8430e0a9695a1f3d524ca/AndroidManifest.xml:21:22-76
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-10.2.1.aar/c45fc2c1e7c8430e0a9695a1f3d524ca/AndroidManifest.xml:24:9-134
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-10.2.1.aar/c45fc2c1e7c8430e0a9695a1f3d524ca/AndroidManifest.xml:24:110-132
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-10.2.1.aar/c45fc2c1e7c8430e0a9695a1f3d524ca/AndroidManifest.xml:24:85-109
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-10.2.1.aar/c45fc2c1e7c8430e0a9695a1f3d524ca/AndroidManifest.xml:24:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-10.2.1.aar/c45fc2c1e7c8430e0a9695a1f3d524ca/AndroidManifest.xml:25:9-32:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-10.2.1.aar/c45fc2c1e7c8430e0a9695a1f3d524ca/AndroidManifest.xml:25:94-118
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-10.2.1.aar/c45fc2c1e7c8430e0a9695a1f3d524ca/AndroidManifest.xml:25:19-93
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-10.2.1.aar/c45fc2c1e7c8430e0a9695a1f3d524ca/AndroidManifest.xml:26:13-31:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-10.2.1.aar/c45fc2c1e7c8430e0a9695a1f3d524ca/AndroidManifest.xml:27:17-71
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-10.2.1.aar/c45fc2c1e7c8430e0a9695a1f3d524ca/AndroidManifest.xml:27:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-10.2.1.aar/c45fc2c1e7c8430e0a9695a1f3d524ca/AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-10.2.1.aar/c45fc2c1e7c8430e0a9695a1f3d524ca/AndroidManifest.xml:28:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-10.2.1.aar/c45fc2c1e7c8430e0a9695a1f3d524ca/AndroidManifest.xml:29:17-75
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-10.2.1.aar/c45fc2c1e7c8430e0a9695a1f3d524ca/AndroidManifest.xml:29:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-10.2.1.aar/c45fc2c1e7c8430e0a9695a1f3d524ca/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-10.2.1.aar/c45fc2c1e7c8430e0a9695a1f3d524ca/AndroidManifest.xml:30:27-75
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.1.aar/ff5e6948252fa237a97d760e2811a65d/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-analytics:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-analytics-10.2.1.aar/0f6bd65696342656437a7169a8550732/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-analytics-10.2.1.aar/0f6bd65696342656437a7169a8550732/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-10.2.1.aar/1d0f9ddf23043e04d26edebf0f61e932/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-10.2.1.aar/1d0f9ddf23043e04d26edebf0f61e932/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.2.1.aar/d6c313856f5ad855f078e9c210606805/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.2.1.aar/d6c313856f5ad855f078e9c210606805/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/2bf37bb13e3d5326d0c31a8580c60187/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/2bf37bb13e3d5326d0c31a8580c60187/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.1.aar/ff5e6948252fa237a97d760e2811a65d/AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.1.aar/ff5e6948252fa237a97d760e2811a65d/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.2.1.aar/d6c313856f5ad855f078e9c210606805/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.2.1.aar/d6c313856f5ad855f078e9c210606805/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.1.aar/ff5e6948252fa237a97d760e2811a65d/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.1.aar/ff5e6948252fa237a97d760e2811a65d/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.1.aar/ff5e6948252fa237a97d760e2811a65d/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.1.aar/ff5e6948252fa237a97d760e2811a65d/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.1.aar/ff5e6948252fa237a97d760e2811a65d/AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.1.aar/ff5e6948252fa237a97d760e2811a65d/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.1.aar/ff5e6948252fa237a97d760e2811a65d/AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.1.aar/ff5e6948252fa237a97d760e2811a65d/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.1.aar/ff5e6948252fa237a97d760e2811a65d/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.1.aar/ff5e6948252fa237a97d760e2811a65d/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.1.aar/ff5e6948252fa237a97d760e2811a65d/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.2.1.aar/d6c313856f5ad855f078e9c210606805/AndroidManifest.xml:27:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.2.1.aar/d6c313856f5ad855f078e9c210606805/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.1.aar/ff5e6948252fa237a97d760e2811a65d/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.1.aar/ff5e6948252fa237a97d760e2811a65d/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.1.aar/ff5e6948252fa237a97d760e2811a65d/AndroidManifest.xml:32:16-87
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-10.2.1.aar/128e1a60fb2f4da5dee0d4e32951b978/AndroidManifest.xml:20:9-25:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-10.2.1.aar/128e1a60fb2f4da5dee0d4e32951b978/AndroidManifest.xml:20:51-74
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-10.2.1.aar/128e1a60fb2f4da5dee0d4e32951b978/AndroidManifest.xml:20:75-121
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-10.2.1.aar/128e1a60fb2f4da5dee0d4e32951b978/AndroidManifest.xml:20:19-50
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-10.2.1.aar/128e1a60fb2f4da5dee0d4e32951b978/AndroidManifest.xml:21:13-24:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-10.2.1.aar/128e1a60fb2f4da5dee0d4e32951b978/AndroidManifest.xml:22:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-10.2.1.aar/128e1a60fb2f4da5dee0d4e32951b978/AndroidManifest.xml:22:25-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-gcm-10.2.1.aar/f6b5fddb1183400b825d0cb6a71fdb72/AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-iid-10.2.1.aar/fed55f3af715ef5f2519cdcf8cc489b7/AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-iid-10.2.1.aar/fed55f3af715ef5f2519cdcf8cc489b7/AndroidManifest.xml:20:5-81
+MERGED from [com.google.firebase:firebase-iid:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/2bf37bb13e3d5326d0c31a8580c60187/AndroidManifest.xml:22:5-81
+MERGED from [com.google.firebase:firebase-iid:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/2bf37bb13e3d5326d0c31a8580c60187/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-gcm-10.2.1.aar/f6b5fddb1183400b825d0cb6a71fdb72/AndroidManifest.xml:20:22-79
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.1.aar/11cc89d47b09c1d20f8d0f4411e4d5dd/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.1.aar/11cc89d47b09c1d20f8d0f4411e4d5dd/AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.1.aar/11cc89d47b09c1d20f8d0f4411e4d5dd/AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.1.aar/314782f8d0a5ba1e3a641f4dff3991f6/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.1.aar/314782f8d0a5ba1e3a641f4dff3991f6/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.1.aar/314782f8d0a5ba1e3a641f4dff3991f6/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.1.aar/314782f8d0a5ba1e3a641f4dff3991f6/AndroidManifest.xml:19:19-85
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-messaging-10.2.1.aar/b2bb482ec7d7a1066bcce22509157860/AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-messaging-10.2.1.aar/b2bb482ec7d7a1066bcce22509157860/AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-messaging-10.2.1.aar/b2bb482ec7d7a1066bcce22509157860/AndroidManifest.xml:23:18-87
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-messaging-10.2.1.aar/b2bb482ec7d7a1066bcce22509157860/AndroidManifest.xml:24:13-26:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-messaging-10.2.1.aar/b2bb482ec7d7a1066bcce22509157860/AndroidManifest.xml:24:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-messaging-10.2.1.aar/b2bb482ec7d7a1066bcce22509157860/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-messaging-10.2.1.aar/b2bb482ec7d7a1066bcce22509157860/AndroidManifest.xml:25:25-75
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/2bf37bb13e3d5326d0c31a8580c60187/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/2bf37bb13e3d5326d0c31a8580c60187/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/2bf37bb13e3d5326d0c31a8580c60187/AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/2bf37bb13e3d5326d0c31a8580c60187/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/2bf37bb13e3d5326d0c31a8580c60187/AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/2bf37bb13e3d5326d0c31a8580c60187/AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/2bf37bb13e3d5326d0c31a8580c60187/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/2bf37bb13e3d5326d0c31a8580c60187/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/2bf37bb13e3d5326d0c31a8580c60187/AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/2bf37bb13e3d5326d0c31a8580c60187/AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/2bf37bb13e3d5326d0c31a8580c60187/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/2bf37bb13e3d5326d0c31a8580c60187/AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/2bf37bb13e3d5326d0c31a8580c60187/AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/2bf37bb13e3d5326d0c31a8580c60187/AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/2bf37bb13e3d5326d0c31a8580c60187/AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/2bf37bb13e3d5326d0c31a8580c60187/AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/2bf37bb13e3d5326d0c31a8580c60187/AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/2bf37bb13e3d5326d0c31a8580c60187/AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/2bf37bb13e3d5326d0c31a8580c60187/AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/2bf37bb13e3d5326d0c31a8580c60187/AndroidManifest.xml:43:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/2bf37bb13e3d5326d0c31a8580c60187/AndroidManifest.xml:44:13-46:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/2bf37bb13e3d5326d0c31a8580c60187/AndroidManifest.xml:44:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/2bf37bb13e3d5326d0c31a8580c60187/AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/2bf37bb13e3d5326d0c31a8580c60187/AndroidManifest.xml:45:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-common-10.2.1.aar/e0cf81fc2377388393b671235dcd58a1/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-common-10.2.1.aar/e0cf81fc2377388393b671235dcd58a1/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-common-10.2.1.aar/e0cf81fc2377388393b671235dcd58a1/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-common-10.2.1.aar/e0cf81fc2377388393b671235dcd58a1/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/firebase-common-10.2.1.aar/e0cf81fc2377388393b671235dcd58a1/AndroidManifest.xml:6:79-143
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-10.2.1.aar/98548c3989bd2813f6feca96762280c4/AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-10.2.1.aar/98548c3989bd2813f6feca96762280c4/AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-10.2.1.aar/98548c3989bd2813f6feca96762280c4/AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-10.2.1.aar/98548c3989bd2813f6feca96762280c4/AndroidManifest.xml:25:19-71
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-10.2.1.aar/98548c3989bd2813f6feca96762280c4/AndroidManifest.xml:26:9-131
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-10.2.1.aar/98548c3989bd2813f6feca96762280c4/AndroidManifest.xml:26:92-129
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] /Users/mac24h/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-10.2.1.aar/98548c3989bd2813f6feca96762280c4/AndroidManifest.xml:26:19-91
